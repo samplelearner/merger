@@ -10,6 +10,7 @@ public class del
         return a+b;
     }
 //new add
+    //ag add
 public int mul ()
 {
     return a*b;
