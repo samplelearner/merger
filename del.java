@@ -9,7 +9,7 @@ public class del
 
         return a+b;
     }
-
+//new add
 public int mul ()
 {
     return a*b;
