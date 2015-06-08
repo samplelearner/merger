@@ -11,6 +11,12 @@ public class del
     }
 //new add
     //ag add
+    public void div()
+    {
+        System.out.println(a/b);
+
+
+    }
 public int mul ()
 {
     return a*b;
